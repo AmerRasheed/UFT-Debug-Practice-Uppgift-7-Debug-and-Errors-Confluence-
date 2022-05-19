@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2022-05-13 14:05:38</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>40ebceeb38de49cd9ddd1424679a1b73</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>Uppgift4</Name>
+    <Description />
+    <StartTime>2022-05-13 14:05:38</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>40ebceeb38de49cd9ddd1424679a1b73</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>Uppgift5</Name>
+    <Description />
+    <StartTime>2022-05-13 14:05:38</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>40ebceeb38de49cd9ddd1424679a1b73</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>IEobject</Name>
+    <Description />
+    <StartTime>2022-05-13 14:05:38</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>40ebceeb38de49cd9ddd1424679a1b73</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>Syntaxfel</Name>
+    <ErrorText>Syntaxfel</ErrorText>
+    <Description>&lt;BR/&gt;Line (8): &amp;quot;Function RemoveBlancs(stringToRemoveBlancsFrom)&amp;quot;.</Description>
+    <StartTime>2022-05-13 14:05:38</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>65b86ef05a0743ebb4e79f321a1369ed</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\53331c21-07fc-45b2-b73a-50eddf83a175.jpeg" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2022-05-13 14:05:42</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>4279ad7c841440938ca43f05c1250154</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\6ae7e976-d259-4966-a245-d3ae5eb1675e.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>tre</Name>
+    <Description />
+    <StartTime>2022-05-13 14:05:38</StartTime>
+    <Duration>4</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>40ebceeb38de49cd9ddd1424679a1b73</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2022-05-13 14:05:38</StartTime>
+    <Duration>4</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>75338527726444c6992686be90027f6a</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Debug7</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2021</ToolVersion>
+    <ToolVersionStringLiteral>2021</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2022-05-13 14:05:37</StartTime>
+    <Duration>5</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>7f870c2be3cd49cd8aaf7ee5af06d095</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+02:00:00</Timezone>
+      <Locale>svenska (Sverige)</Locale>
+      <User>AzureAD\AmerRasheed</User>
+      <CpuInfo>11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>16064</TotalMemory>
+      <HostName>\LEM-5CG2109VW2</HostName>
+      <OSInfo>Windows 10 21H2 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res73</ResultName>
+    <RunStartTime>2022-05-13 14:05:37</RunStartTime>
+    <Timezone>+02:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2021</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2021</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

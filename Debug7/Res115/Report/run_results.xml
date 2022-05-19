@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>Slut på instruktion förväntas.</Name>
+    <ErrorText>Slut på instruktion förväntas.</ErrorText>
+    <Description>&lt;BR/&gt;Line (10): &amp;quot;Browser(&amp;quot;index:=0&amp;quot;).Page(&amp;quot;index:=0&amp;quot;).WebEdit(&amp;quot;placeholder:=Vad vill du söka efter?&amp;quot;)Highlight&amp;quot;.</Description>
+    <StartTime>2022-05-16 11:49:20</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>3df7d7bfd21f44bea08910b6dde0fade</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\3271a49e-3394-456e-a8ce-a02041355977.jpeg" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2022-05-16 11:49:26</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>b048c529d0f14a0aa0bc62a3b020500b</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\265197d7-b02d-46f8-822e-f5e67c146ae2.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>IEobject</Name>
+    <Description />
+    <StartTime>2022-05-16 11:49:20</StartTime>
+    <Duration>6</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>cbe2779d140d4673bcbb146bba484501</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Debug7</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2021</ToolVersion>
+    <ToolVersionStringLiteral>2021</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2022-05-16 11:49:19</StartTime>
+    <Duration>7</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>097af4dff8ef4792ba02184a0d785169</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+02:00:00</Timezone>
+      <Locale>svenska (Sverige)</Locale>
+      <User>AzureAD\AmerRasheed</User>
+      <CpuInfo>11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>16064</TotalMemory>
+      <HostName>\LEM-5CG2109VW2</HostName>
+      <OSInfo>Windows 10 21H2 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res115</ResultName>
+    <RunStartTime>2022-05-16 11:49:19</RunStartTime>
+    <Timezone>+02:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2021</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2021</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2022-05-10 12:32:18</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>32a011e56b5541c989450eab97f1fde7</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2022-05-10 12:32:56</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>940ca6faa5a94793a0c7dcfdf200ac50</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\73205ff8-5c2e-49b8-8c61-2985ad36439e.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>SecondPunkt</Name>
+    <Description />
+    <StartTime>2022-05-10 12:32:40</StartTime>
+    <Duration>16</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>32a011e56b5541c989450eab97f1fde7</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2022-05-10 12:32:17</StartTime>
+    <Duration>39</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>23480ac153564a368e48a6b50717f1f2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2022-05-10 12:32:56</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>063a3fe0f20e4c3898c92e658f161936</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\5c77f8c0-563b-427d-9842-293135a22a6f.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>SecondWBScript</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2021</ToolVersion>
+    <ToolVersionStringLiteral>2021</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2022-05-10 12:32:16</StartTime>
+    <Duration>40</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>25e3de4851a64b6bb02259485d795508</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+02:00:00</Timezone>
+      <Locale>svenska (Sverige)</Locale>
+      <User>AzureAD\AmerRasheed</User>
+      <CpuInfo>11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>16064</TotalMemory>
+      <HostName>\LEM-5CG2109VW2</HostName>
+      <OSInfo>Windows 10 21H2 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res31</ResultName>
+    <RunStartTime>2022-05-10 12:32:16</RunStartTime>
+    <Timezone>+02:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2021</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2021</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

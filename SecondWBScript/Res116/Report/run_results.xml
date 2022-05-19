@@ -1,0 +1,170 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2022-05-12 13:32:34</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>da2c956c305847e1b7f815ef78414ddb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>SecondPunkt</Name>
+    <Description />
+    <StartTime>2022-05-12 13:32:34</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>da2c956c305847e1b7f815ef78414ddb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>TredjePunkt</Name>
+    <Description />
+    <StartTime>2022-05-12 13:32:34</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>da2c956c305847e1b7f815ef78414ddb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>One or both ages are not numeric...</Name>
+    <ErrorText>One or both ages are not numeric...</ErrorText>
+    <Description>&lt;BR/&gt;Line (10): &amp;quot;Err.Raise 1000, &amp;quot;AddAges&amp;quot;, &amp;quot;&amp;quot;&amp;quot;.</Description>
+    <StartTime>2022-05-12 13:32:45</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[DebugUppgift]]></ModuleName>
+          <FileName><![CDATA[DebugUppgift]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[AddAges]]></FunctionName>
+          <Scripts><![CDATA[Err.Raise 1000, "AddAges", "One or both ages are not numeric..."]]></Scripts>
+          <LineNo><![CDATA[10]]></LineNo>
+        </StackFrame>
+        <StackFrame>
+          <ModuleName><![CDATA[DebugUppgift]]></ModuleName>
+          <FileName><![CDATA[DebugUppgift]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[Print AddAges(andreas, fredrik)]]></Scripts>
+          <LineNo><![CDATA[5]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>d86202af86e2499f81986256b7040436</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\8e38753b-ea4d-4bf4-be1e-de22b91a7f10.jpeg" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2022-05-12 13:36:13</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>d8fa5352fb6d4fe8bf7bca052c23b690</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\d9f7ec6a-f2aa-4e8a-9d46-f12f1bab7c5c.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>DebugUppgift</Name>
+    <Description />
+    <StartTime>2022-05-12 13:32:34</StartTime>
+    <Duration>219</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>da2c956c305847e1b7f815ef78414ddb</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2022-05-12 13:32:34</StartTime>
+    <Duration>219</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>b62708d7295149348b3d81a9a17a7bc6</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2022-05-12 13:36:13</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>bde0cc22a187488a8f8fb9c0f1c4eb8d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\ddbd73ed-1d4a-4b1d-a91c-d47bed67d2d2.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>SecondWBScript</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2021</ToolVersion>
+    <ToolVersionStringLiteral>2021</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2022-05-12 13:32:18</StartTime>
+    <Duration>235</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>01690b427e1f44de968d6b045daa9952</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+02:00:00</Timezone>
+      <Locale>svenska (Sverige)</Locale>
+      <User>AzureAD\AmerRasheed</User>
+      <CpuInfo>11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>16064</TotalMemory>
+      <HostName>\LEM-5CG2109VW2</HostName>
+      <OSInfo>Windows 10 21H2 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res116</ResultName>
+    <RunStartTime>2022-05-12 13:32:18</RunStartTime>
+    <Timezone>+02:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2021</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2021</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

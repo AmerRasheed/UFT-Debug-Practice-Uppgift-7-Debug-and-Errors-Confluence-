@@ -1,0 +1,225 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2022-05-12 14:44:36</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>4537bd87aed64d44ac86c320e87cb3fd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>SecondPunkt</Name>
+    <Description />
+    <StartTime>2022-05-12 14:44:36</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>4537bd87aed64d44ac86c320e87cb3fd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<Data>
+    <Name>TredjePunkt</Name>
+    <Description />
+    <StartTime>2022-05-12 14:44:37</StartTime>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>4537bd87aed64d44ac86c320e87cb3fd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>One or both ages are not numeric...</Name>
+    <ErrorText>One or both ages are not numeric...</ErrorText>
+    <Description>&lt;BR/&gt;Line (10): &amp;quot;Err.Raise 1000, &amp;quot;AddAges&amp;quot;, &amp;quot;&amp;quot;&amp;quot;.</Description>
+    <StartTime>2022-05-12 14:45:08</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[DebugUppgift]]></ModuleName>
+          <FileName><![CDATA[DebugUppgift]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[AddAges]]></FunctionName>
+          <Scripts><![CDATA[Err.Raise 1000, "AddAges", "One or both ages are not numeric..."]]></Scripts>
+          <LineNo><![CDATA[10]]></LineNo>
+        </StackFrame>
+        <StackFrame>
+          <ModuleName><![CDATA[DebugUppgift]]></ModuleName>
+          <FileName><![CDATA[DebugUppgift]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[Print AddAges(andreas, fredrik)]]></Scripts>
+          <LineNo><![CDATA[5]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>98c501c23bfa4c89a44f62d7429b5cfc</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\f0fa16cb-2c9b-427c-ac7c-9176df753f60.jpeg" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>One or both ages are not numeric...</Name>
+    <ErrorText>One or both ages are not numeric...</ErrorText>
+    <Description>&lt;BR/&gt;Line (10): &amp;quot;Err.Raise 1000, &amp;quot;AddAges&amp;quot;, &amp;quot;&amp;quot;&amp;quot;.</Description>
+    <StartTime>2022-05-12 14:45:12</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[DebugUppgift]]></ModuleName>
+          <FileName><![CDATA[DebugUppgift]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[AddAges]]></FunctionName>
+          <Scripts><![CDATA[Err.Raise 1000, "AddAges", "One or both ages are not numeric..."]]></Scripts>
+          <LineNo><![CDATA[10]]></LineNo>
+        </StackFrame>
+        <StackFrame>
+          <ModuleName><![CDATA[DebugUppgift]]></ModuleName>
+          <FileName><![CDATA[DebugUppgift]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[Print AddAges(andreas, fredrik)]]></Scripts>
+          <LineNo><![CDATA[5]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>98c501c23bfa4c89a44f62d7429b5cfc</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\ea7bf554-d537-4b4b-b038-dee4974dfa31.jpeg" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>One or both ages are not numeric...</Name>
+    <ErrorText>One or both ages are not numeric...</ErrorText>
+    <Description>&lt;BR/&gt;Line (10): &amp;quot;Err.Raise 1000, &amp;quot;AddAges&amp;quot;, &amp;quot;&amp;quot;&amp;quot;.</Description>
+    <StartTime>2022-05-12 14:46:06</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[DebugUppgift]]></ModuleName>
+          <FileName><![CDATA[DebugUppgift]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[AddAges]]></FunctionName>
+          <Scripts><![CDATA[Err.Raise 1000, "AddAges", "One or both ages are not numeric..."]]></Scripts>
+          <LineNo><![CDATA[10]]></LineNo>
+        </StackFrame>
+        <StackFrame>
+          <ModuleName><![CDATA[DebugUppgift]]></ModuleName>
+          <FileName><![CDATA[DebugUppgift]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[Print AddAges(andreas, fredrik)]]></Scripts>
+          <LineNo><![CDATA[5]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <IconKey>98c501c23bfa4c89a44f62d7429b5cfc</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <MergeIsErrorIcon>True</MergeIsErrorIcon>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\b6f96f65-978c-4d0f-9539-0138fdaf2f19.jpeg" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2022-05-12 14:46:29</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>e64c7d25240a47949f008875a57c5a8a</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\a02cc1b3-cf15-4c78-b29e-d244912d2eb0.jpeg" />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>DebugUppgift</Name>
+    <Description />
+    <StartTime>2022-05-12 14:44:37</StartTime>
+    <Duration>112</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>4537bd87aed64d44ac86c320e87cb3fd</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2022-05-12 14:44:36</StartTime>
+    <Duration>113</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>e4609f68b3764e84a9f3b6e6fcd3731c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>SecondWBScript</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2021</ToolVersion>
+    <ToolVersionStringLiteral>2021</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2022-05-12 14:44:20</StartTime>
+    <Duration>129</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>58dec89d40c34ecfaf76c7c8a2d5ef43</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+02:00:00</Timezone>
+      <Locale>svenska (Sverige)</Locale>
+      <User>AzureAD\AmerRasheed</User>
+      <CpuInfo>11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>16064</TotalMemory>
+      <HostName>\LEM-5CG2109VW2</HostName>
+      <OSInfo>Windows 10 21H2 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res125</ResultName>
+    <RunStartTime>2022-05-12 14:44:20</RunStartTime>
+    <Timezone>+02:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2021</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2021</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

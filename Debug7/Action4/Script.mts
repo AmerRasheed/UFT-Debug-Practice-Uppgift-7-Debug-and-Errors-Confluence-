@@ -1,4 +1,5 @@
-﻿'Dim aIE
+﻿'I make a change in comments for GIT 
+'Dim aIE
 'Dim MyDocument
 'Set aIE = CreateObject("InternetExplorer.Application")
 
